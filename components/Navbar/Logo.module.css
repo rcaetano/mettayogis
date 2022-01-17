@@ -1,0 +1,11 @@
+.logo {
+  display: flex;
+  align-items: center;
+  font-size: var(--size-8);
+  color: var(--color-primary-700);
+  font-family: 'Bungee Inline', sans-serif;
+}
+
+.logo img {
+  margin-right: 50px;
+}

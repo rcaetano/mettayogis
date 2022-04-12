@@ -1,0 +1,54 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn-lg {
+    text-decoration: none;
+    padding: 12px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Poppins', cursive;
+    font-size: 4em;
+    color: darkblue;
+}
+
+h2 {
+    padding-top: 1em;
+    font-family: 'Caveat', cursive;
+    font-size: 2.5em;
+}
+
+h3 {
+    font-family: 'Caveat', cursive;
+    font-size: 2em;
+}
+
+.lead {
+    font-family: 'Caveat', cursive;
+    font-size: 2em;
+}
+
+p {
+    font-family: 'Poppins';
+    font-size: 1.2em;
+}
+
+.gloss-box {
+    background: rgba(230, 220, 210, 0.8);
+}
+
+.nav-link {
+    font-family: 'Caveat', cursive;
+    font-size: 1.6em;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+.navbar-brand {
+    font-family: 'Comfortaa', cursive;
+    font-size: 2.2em;
+}

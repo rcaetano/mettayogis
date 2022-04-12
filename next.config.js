@@ -1,3 +1,10 @@
 module.exports = {
-  reactStrictMode: true,
+    reactStrictMode: true,
+
+    rewrites: async () => {
+        return [{
+            source: "/",
+            destination: "/index.html",
+        }]
+    }
 }

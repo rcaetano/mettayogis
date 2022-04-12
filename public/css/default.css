@@ -64,6 +64,14 @@ p {
     background: rgba(230, 220, 210, 0.8);
 }
 
+.navbar-custom {
+    background-color: #A9C8C7;
+}
+
+.navbar-metta {
+    background-color: #F0E6DC;
+}
+
 .nav-link {
     font-family: 'Caveat', cursive;
     font-size: 1.6em;
